@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ab9e61f40d247fc4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b4def4e1945fab94",
+            "id": "6629bbd785720ae2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4def4e1945fab94",
+  "active": "6629bbd785720ae2",
   "lastOpenFiles": [
+    "Untitled.md",
     "Welcome.md"
   ]
 }
