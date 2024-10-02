@@ -24,8 +24,8 @@ kebab-case en mettant un tiret - pour les noms de fichiers ou les URLS
 de moins l'infini à plus l'infini = rond 
 Entiers (integrer/int)
 Décimaux (Float) de - l'infini à plus l'infini
-booléen soit vri sout faux 1 ou 0
-déimaux + addition, -soustration, X multiplication // division 
+booléen soit vrai soit faux 1 ou 0
+décimaux + addition, -soustraction, X multiplication // division 
 String + concatenation "Salut"+"ça va"= "Salut ça va" multiplication en python uniquement "A" x 4 = "AAAA"
 Bool et Algèbre de Boole
 and -> et 
@@ -65,3 +65,49 @@ VALEUR NUMERIQUE
 | 0   | 1   | 0F     |
 | 1   | 0   | 0F     |
 | 1   | 1   | 1V     |
+Opérateurs de comparaison 
+
+a= =b si a est strictement égal à b
+
+
+a<=b inférieur ou égal
+a>=b supérieur ou égal 
+
+
+utiliser le sinon si l'on veut mettre des conditions 
+if else 
+
+Boucles d'instructions 
+
+for -> compté (variable de comptage)
+Permet de répéter une nouvelle fois une action 
+Ex
+for i in range(start,end):             end est exclu
+	instruction
+For i in range(0,5):                     incrémentation de 1 la variable de comptage
+	print("hello")
+
+Deuxième type de boucle
+while (tant que)
+Boucle conditionnelle 
+
+Boucle tant que la condition est vérifié 
+
+n=1
+while n!= 100
+print(n)
+n = n+1
+
+
+
+mot= "hello"
+mot.lower() -> "hello"
+mot.upper() -> "HELLO"
+h=mot[0] -> "h"
+l = len(mot) -> 5
+d = mot [:-1]
+
+jour="Mardi"
+
+message = f "nous sommes {jour}"
+print(message)
