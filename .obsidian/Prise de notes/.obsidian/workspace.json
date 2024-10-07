@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d42777ba78d516df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud computing.md",
+                "file": "GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud computing.md",
+                "file": "GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud computing.md"
+                "file": "GIT.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b730ea347013c75f",
+  "active": "d42777ba78d516df",
   "lastOpenFiles": [
+    "GIT.md",
     "Cloud computing.md",
     "Les niveaux de maintenances.md",
     "GLPI.md",
