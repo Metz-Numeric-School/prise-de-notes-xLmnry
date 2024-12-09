@@ -45,3 +45,9 @@ Il y a plusieurs autres avantages comme la sécurité proposé par AWS
 
 AWS est obligatoirement stocké dans une région et est stocké avec deux zones de disponibilité ou plus
 Ces centres sot conçus pour sécurisé 
+
+Calcul
+Plusieurs services offrent des possibilités en gestion de calculs notamment via des machines virtuels avec Amazon EC2
+Personnalisation maximum 
+
+Bien choisir son instance pour correspondre a ses besoins 

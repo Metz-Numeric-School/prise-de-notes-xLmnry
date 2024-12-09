@@ -7,3 +7,8 @@ Sécurité des systèmes
 
 Respect des clients
 Pédagogie
+
+
+
+Questions :
+Pour combiens de personnes et combiens d'appareils ?
